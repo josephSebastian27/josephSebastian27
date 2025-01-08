@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephSebastian27
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in web development and Data Analytics
+- 🌱 currently learning Data Analysis
 - 💞️ I’m looking to collaborate on -not yet
 - 📫 How to reach me :
 
