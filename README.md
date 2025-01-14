@@ -26,7 +26,7 @@ I’m always open to collaboration, learning new technologies, and sharing knowl
 
 📧 Email: www.joesebastian27jan@gmail.com  or josephsebastian272001@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/joseph-sebastian-5b22b5223/
-🌐 Portfolio: [Portfolio URL]
+🌐 Portfolio: [https://josephsebastian27.github.io/Portfolio/]
 
 <!---
 josephSebastian27/josephSebastian27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
